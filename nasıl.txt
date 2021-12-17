@@ -1,0 +1,6 @@
+visual studio code indir
+node.js indir
+terminal aç "npm install" yaz
+terminale "npm install truffle -p" yaz
+kodun çalışması için "node index.js" yaz ve outputta çıksın
+
